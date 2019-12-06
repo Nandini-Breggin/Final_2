@@ -1,0 +1,27 @@
+.block {
+    /* dis;  NEW */
+    background: rgb(143, 45, 255);
+    margin-left: 28px;
+    padding: 50px;
+    position: absolute;
+    z-index: 1000;
+    width:200px;
+    height:200px;
+    font-size: 1.33rem;
+    text-align: center;
+    
+}
+
+.stripe {
+    background-image: url(https://images.pond5.com/highly-detailed-checkered-racing-flag-footage-076976574_prevstill.jpeg);
+}
+
+.word {
+    color: rgb(0, 0, 0);
+}
+
+.arrow {
+    position: absolute;
+    bottom: 325px;
+    left: 250px;
+}
