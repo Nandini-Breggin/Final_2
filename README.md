@@ -21,6 +21,6 @@ MUST HAVES:
 * Objects +
 * Conditional Statements +
 * Repetition +
-* Version Control (Upload to GitHub - Commiting)
+* Version Control (Upload to GitHub - Commiting) +
 * Lists / Arrays +
 ------------------------------------------------------------------------------
