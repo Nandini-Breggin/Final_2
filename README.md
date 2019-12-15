@@ -6,53 +6,21 @@ Create an interactive website using javascript, html, and css that processes dat
 ----------------------------------------------------------------------------
 MISSION STATEMENT:
 ------------------
-Target Audience -> Kart drivers
-Problem to Solve -> Help people see how prepared they are for their next race.
-Why? -> To help people see how much more practice they need to do their best in the race.
-----------------------------------------------------------------------------
-IDEAS FOR WEBSITE:
-------
-- Progress Bar
-- Instantaneous Feedback
-- Background information
-    - Tips and tricks -> Hover with a lightbulb picture (word-study challenge)
-- Take a quiz to see how prepared they are for their next race.
-    * Multiple Choice
-        - Get the correct answers (A-D?)
-    * Matching game?
-        - Rearrange the order of the answers
-    * Free Response: 
-        - How consistent are they with their lines
-        - How often do they practice
-        - How far off are they from the T.R.
-        - How well do you know the track?
-        - How confident are they?
-        - How well do you know your competition?
------------------------------------------------------------------------------
-USEFUL WEBSITES:
-----------------
-https://www.espn.com/racing/news/story?series=2&id=2901145
-
+* Target Audience -> Kart drivers
+* Problem to Solve -> Help people see how prepared they are for their next race.
+* Why? -> To help people see how much more practice they need to do their best in the race.
 ----------------------------------------------------------------------------
 MUST HAVES:
 -----------
-* DOCUMENT WITH COMMENTS -> something new you learned
+* DOCUMENT WITH COMMENTS -> something new you learned +
     -> Not something we went over together in class
         ~ Find out how to save the data on the page
-* Functions
-* Variables
-* Event Handling (interactive / storing data)
-* Objects
-* Conditional Statements
-* Repetition (Loop???)
+* Functions +
+* Variables +
+* Event Handling (interactive / storing data) +
+* Objects +
+* Conditional Statements +
+* Repetition +
 * Version Control (Upload to GitHub - Commiting)
-* Lists / Arrays
+* Lists / Arrays +
 ------------------------------------------------------------------------------
-- Calendar
-    - Track/Seat Time (weekly, daily, monthly?)
-        - Set Goal (Tracks it)
-        - Logs it everytime
-            - It needs to save the progress
-
-- Progress Bar
-* How to make it process information?
