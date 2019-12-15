@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="background">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,19 +8,57 @@
     <title>Drive Real | Kart Racers</title>
 </head>
 <body>
-    <h1 class="word">Take a quiz about go kart racing, to see if you are prepared for you next race!</h1>
-    <br>
-    <h3 class="word">Get instant feedback, on what you could improve!</h3>
+        <h4>1. Are you going faster and faster than your previous time(s)?</h4>
+        <input id="rd11" name="grp1" type="radio" value="a">Yes </input><br>
+        <input id = "rd12" name= "grp1" type="radio" value = "b">No </input><br>
+        <input id="rd13" name="grp1" type="radio" value="c">My lap times are fluctuating </input><br>
+        <button onclick="fn1(1)" id="btn1">Submit</button><br>
         <br>
-        <input type="radio" name="genre" value="rock"> a<br>
-        <input type="radio" name="genre" value="hip-hop"> b<br>
-        <input type="radio" name="genre" value="metal"> c<br>
-        <input type="radio" name="genre" value="country"> d<br>
-        <input type="radio" name="genre" value="pop"> e<br>
-        <input type="radio" name="genre" value="rb"> f<br>
-    
 
-    
-    <script src="Final.js"></script>
+        <h4>2. Do you get tired after 3 consecutive races (no breaks in between)?</h4>
+        <input id="rd21" name="grp2" type="radio" value="a">Yes </input><br>
+        <input id = "rd22" name= "grp2" type="radio" value="b">No </input><br>
+        <button onclick="fn1(2)" id="btn1">Submit</button><br>
+        <br>
+
+        <h4>3. Do your tires screech when you go around a corner?</h4>
+        <input id="rd31" name="grp3" type="radio" value="a">Yes </input><br>
+        <input id = "rd32" name= "grp3" type="radio" value="b">No </input><br>
+        <button onclick="fn1(3)" id="btn1">Submit</button><br>
+        <br>
+
+        <h4>4. How many laps have you run on this track?</h4>
+        <input id="rd41" name="grp4" type="radio" value="a">0-100 </input><br>
+        <input id = "rd42" name= "grp4" type="radio" value = "b">100-200 </input><br>
+        <input id="rd43" name="grp4" type="radio" value="c">200-300 </input><br>
+        <input id="rd44" name="grp4" type="radio" value="d">400+ </input><br>
+        <button onclick="fn1(4)" id="btn1">Submit</button><br>
+        <br>
+
+        <h4>5. How far away from your apexes are you?</h4>
+        <input id="rd51" name="grp5" type="radio" value="a">I don't know </input><br>
+        <input id = "rd52" name= "grp5" type="radio" value = "b">More than 2 feet </input><br>
+        <input id="rd53" name="grp5" type="radio" value="c">3 inches to 2 feet </input><br>
+        <input id="rd54" name="grp5" type="radio" value="d">Less than 2 inches</input><br>
+        <button onclick="fn1(5)" id="btn1">Click me</button><br>
+        <br>
+
+        <h4>6. Is the steering wheel slipping from your hands?</h4>
+        <input id="rd61" name="grp6" type="radio" value="a">Yes (No Gloves) </input><br>
+        <input id = "rd62" name= "grp6" type="radio" value = "b">No (No Gloves) </input><br>
+        <input id="rd63" name="grp6" type="radio" value="c">Yes (With Gloves) </input><br>
+        <input id="rd64" name="grp6" type="radio" value="d">No (With Gloves) </input><br>
+        <button onclick="fn1(6)" id="btn1">Click me</button><br>
+        <br>
+
+        
+        <a href="file:///Users/Nandini/Documents/APCS/Final_Project/index.html"><button autofocus="autofocus">Go Back</button>
+            <!-- I learned how to create a button, that when clicked on, the screen changed to a different html page. -->
+        <br>
+
+    <script src="quiz.js">
+       
+    </script>
 </body>
 </html>
+
