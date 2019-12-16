@@ -1,7 +1,7 @@
 .block {
     /* dis;  NEW */
     background: rgb(143, 45, 255);
-    margin-left: 28px;
+    margin-left: 50px;
     padding: 50px;
     position: absolute;
     z-index: 1000;
@@ -13,14 +13,14 @@
 }
 
 .stripe {
-    background-image: url(https://images.pond5.com/highly-detailed-checkered-racing-flag-footage-076976574_prevstill.jpeg);
+    background-image: url(https://tr.rbxcdn.com/9f3d018f09cee269479cfacc2476dd7c/420/420/Decal/Png);
 }
 
 .word {
     color: rgb(0, 0, 0);
 }
 
-.arrow {
+.kart{
     position: absolute;
     bottom: 200px;
     left: 250px;
