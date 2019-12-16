@@ -10,30 +10,6 @@ Target Audience -> Kart drivers
 Problem to Solve -> Help people see how prepared they are for their next race.
 Why? -> To help people see how much more practice they need to do their best in the race.
 ----------------------------------------------------------------------------
-IDEAS FOR WEBSITE:
-------
-- Progress Bar
-- Instantaneous Feedback
-- Background information
-    - Tips and tricks -> Hover with a lightbulb picture (word-study challenge)
-- Take a quiz to see how prepared they are for their next race.
-    * Multiple Choice
-        - Get the correct answers (A-D?)
-    * Matching game?
-        - Rearrange the order of the answers
-    * Free Response: 
-        - How consistent are they with their lines
-        - How often do they practice
-        - How far off are they from the T.R.
-        - How well do you know the track?
-        - How confident are they?
-        - How well do you know your competition?
------------------------------------------------------------------------------
-USEFUL WEBSITES:
-----------------
-https://www.espn.com/racing/news/story?series=2&id=2901145
-
-----------------------------------------------------------------------------
 MUST HAVES:
 -----------
 * DOCUMENT WITH COMMENTS -> something new you learned
@@ -48,11 +24,3 @@ MUST HAVES:
 * Version Control (Upload to GitHub - Commiting)
 * Lists / Arrays
 ------------------------------------------------------------------------------
-- Calendar
-    - Track/Seat Time (weekly, daily, monthly?)
-        - Set Goal (Tracks it)
-        - Logs it everytime
-            - It needs to save the progress
-
-- Progress Bar
-* How to make it process information?
